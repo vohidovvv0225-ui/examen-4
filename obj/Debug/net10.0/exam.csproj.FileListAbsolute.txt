@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/obj/Debug/net10.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/obj/Debug/net10.0/exam.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/obj/Debug/net10.0/exam.AssemblyInfo.cs
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/obj/Debug/net10.0/exam.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/bin/Debug/net10.0/exam
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/bin/Debug/net10.0/exam.deps.json
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/bin/Debug/net10.0/exam.runtimeconfig.json
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/bin/Debug/net10.0/exam.dll
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/bin/Debug/net10.0/exam.pdb
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/obj/Debug/net10.0/exam.dll
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/obj/Debug/net10.0/refint/exam.dll
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/obj/Debug/net10.0/exam.pdb
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/obj/Debug/net10.0/exam.genruntimeconfig.cache
+/Users/macbook/Desktop/ C#2/week4/exam4/exam/obj/Debug/net10.0/ref/exam.dll

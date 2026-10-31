@@ -1,0 +1,27 @@
+// Polymorphism? chist ?
+// Polymorphism manoi dorad ki  yak metod metavonad dar klasho gunogun bo tarzho gunogun kor mekunad 
+//   Inheritance chist ?
+   
+//    Inheritance-merosgiri wuda buda manoyash ki yak klasi hususyati va metodho klassi digarro megirad
+//    farki virtual va abstrak  chist?
+
+// vertual-metodast ki  badani hudro dorad va classi farzand tagir doda mewavad
+// abstral-metodast ki badan nadorrad va boyad ba klassi farzand  agar on abstruk naboshad  amal ijro wavad
+//  taski 2
+//  Static Class chist?
+//   Static Class- klassestki ki az on bo eri "new;" obekt sohta mewavad va metotdro ba nomi hudash. istifoda karde meshavad
+
+
+
+
+
+// taski 3
+// Generic chist?
+// Generic-imkkonyatestki ki ba mo erdam medihad yak. klas e metod sozem ki ba namudhoi gunogun istifoda burda mewavad  masalan int string va  double
+
+
+
+
+// taski4
+// (struct)? В чем её отличие от класса?
+// struck- namudi malumoti  arzishi  "valu type" meboshad.  vaa class malumotash refense type meboshad
